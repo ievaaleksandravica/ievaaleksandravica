@@ -15,8 +15,8 @@ I am a Salesforce Marketing Cloud expert with more than 4 years experience in th
 
 
 ### Projects
-- Scan'n'Go
-- https://www.scan-and-go.me/
+Scan'n'Go
+## https://www.scan-and-go.me/
 Progressive Web App built as final project during LeWagon bootcamp. Scan'n'Go enables users to shop in a store without having to wait in queues. Built using Ruby on Rails. Enhanced with frontend (HTML, CSS, JS)
 ![image](https://user-images.githubusercontent.com/79845207/135448178-26d6f58a-5f6c-4395-8bf9-615ed7a3c641.png)
 
