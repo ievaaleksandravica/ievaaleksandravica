@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ieva Aleksandravica!</h1>
 <h3 align="center">I am a Salesforce Marketing Cloud expert with more than 4 years experience in the field. I recently graduated Le Wagon Full Stack Developer bootcamp and currently I am looking for a new role in web-development area.</h3>
 
-- 🌱 I’m currently learning **everything about JavaScript**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Salesforce, Ruby, JavaScript, SQL**
 
