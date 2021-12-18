@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Salesforce, Ruby, JavaScript, SQL**
+- 💬 Ask me about **Salesforce, Node.js, Ruby, JavaScript, SQL**
 
 - 📫 How to reach me **ieva.aleksandravica@gmail.com**
 
