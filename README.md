@@ -26,6 +26,8 @@ Progressive Web App built as final project during LeWagon bootcamp. Scan'n'Go en
 #### [Air-BnB for Pools](https://airbnb-for-swimming.herokuapp.com)
 Website built to replicate the functionality of Air-BnB during LeWagon bootcamp. This app allows users to rent or book a swimming pool in hot summer days.
 
+#### [Chat App](https://murmuring-basin-04910.herokuapp.com/)
+Fully function Chat Web App built as part of Node.js course, using Socket.io, Mustache libraries. Chat app allows users to interact with each other in different chat rooms, send location and be informed when other users join or leave the app. 
 
 <h3 align="left">Github Stats:</h3>
 
