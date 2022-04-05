@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ieva Aleksandravica!</h1>
 <h3 align="center">Excited about all things BLOCKCHAIN, NFT and WEB3. Recent graduate of Le Wagon Full Stack Developer bootcamp with Salesforce CRM Technical Background. Knowledgeable in Salesforce Marketing Cloud (5x Certified), AMPScript, SQL, Frontend (HTML, CSS and JS), Node.js and Ruby on Rails.</h3>
 
-- 🌱 I’m currently learning everything about **solidity** and **NFT development**
+- 🌱 I’m currently learning everything about **Solidity**, **NFT development** and **Python**
 
-- 💬 Ask me about **Salesforce, Node.js, Ruby, JavaScript, SQL**
+- 💬 Ask me about **Node.js, Ruby, JavaScript, SQL, Salesforce Marketing Cloud**
 
 - 📫 How to reach me **ieva.aleksandravica@gmail.com**
 
