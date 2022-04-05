@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything about **Solidity**, **NFT development** and **Python**
 
-- 💬 Ask me about **Node.js, Ruby, JavaScript, SQL, Salesforce Marketing Cloud**
+- 💬 Ask me about **Node.js, Ruby on Rails, JavaScript, SQL, Salesforce Marketing Cloud**
 
 - 📫 How to reach me **ieva.aleksandravica@gmail.com**
 
